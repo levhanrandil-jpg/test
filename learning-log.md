@@ -9,8 +9,7 @@ I'm learning Git and version control to track my work.
 - Push my work to GitHub
 -hello its me
 
-## i leant
-- Understand how commits work
-- Learn branching and merging
-- Push my work to GitHub
--hello its me
+## What I Learned Today
+- Git tracks changes to files over time
+- Branches let you experiment without affecting the main project
+- You can merge branches back together when ready
