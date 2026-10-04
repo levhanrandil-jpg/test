@@ -9,8 +9,6 @@ I'm learning Git and version control to track my work.
 - Push my work to GitHub
 -hello its me
 
-## i leant
-- Understand how commits work
-- Learn branching and merging
-- Push my work to GitHub
--hello its me
+## What I Learned Today
+- Git is like a time machine for your files
+- Every commit is a snapshot you can go back to
